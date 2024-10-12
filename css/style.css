@@ -1,0 +1,31 @@
+{margin 0; padding 0; box-sizing border-box;
+}
+h1{
+  text-align: center;
+  color: #88759b;
+
+}
+body{
+    background-image: url(space.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+nav li{
+    display: inline-block;
+    padding: 1,5rem;
+    margin-top: 150px;
+}
+
+nav a{
+    font-size:35px;
+    text-decoration: none;
+    color: #bda8c9;;
+    background-color:;
+    padding-inline: 130px;
+}
+nav a:hover{
+    color: #4d496f;
+    
+}
+
