@@ -1,0 +1,22 @@
+{margin 0; padding 0; box-sizing border-box;
+}
+h1{
+    color: #bdc0c2;
+}
+summary{
+    color: #bdc0c2;
+}
+a{
+    line-height: 0px;
+    text-decoration: none;
+    color: #bdc0c2;
+}
+body{
+    background: #262626;
+}
+div {
+    color: #bdc0c2;
+}
+li{
+    list-style: none;
+}
